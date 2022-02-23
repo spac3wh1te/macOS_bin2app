@@ -1,4 +1,4 @@
-'''
+```
 
 pip3 install argparse
 
@@ -12,4 +12,4 @@ optional arguments:
   -p PNG      PNG image path
   -n NAME     Output APP name
 
-'''
+```
